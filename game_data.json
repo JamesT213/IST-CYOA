@@ -1,0 +1,52 @@
+[
+    {
+        "title": "AI Core Chamber",
+        "text": "The AI core room is flickering with sparks. Proteus's voice warps: 'Leave... or be .'\nA terminal blinks, awaiting input.",
+        "choices": ["Hack the terminal (Wisdom)", "Dodge falling debris (Strength)", "Reason with Proteus (Charisma)"]
+    },
+    {
+        "title": "Cargo Bay",
+        "text": "Crates float in zero gravity. A broken maintenance drone twitches violently.",
+        "choices": ["Search for supplies (Wisdom)", "Avoid the malfunctioning drone (Strength)", "Try to calm the drone (Charisma)"]
+    },
+    {
+        "title": "Escape Pod Room",
+        "text": "A locked keypad glows red. A riddle is displayed: '2x 16 - 0 . What is the answer?'",
+        "choices": ["Type the answer", "Try to override the lock (Wisdom)", "Look for another exit (Strength)"]
+    },
+    {
+        "title": "Engineering Bay",
+        "text": "The reactor is overheating. Steam hisses from broken pipes.",
+        "choices": ["Attempt emergency shutdown (Wisdom)", "Find another way out (Strength)"]
+    },
+    {
+        "title": "Medical Bay",
+        "text": "You find a wounded crew member, barely conscious.",
+        "choices": ["Try to stabilise them (Wisdom)", "Search for supplies (Strength)", "Comfort them (Charisma)"]
+    },
+    {
+        "title": "Hallway",
+        "text": "The station shakes. An automatic door is closing fast.",
+        "choices": ["Sprint through before it shuts (Strength)", "Look for a manual override (Wisdom)"]
+    },
+    {
+        "title": "Cryo Chamber",
+        "text": "Rows of frozen crew members line the walls. One pod hisses open.",
+        "choices": ["Investigate the pod (Wisdom)", "Back away slowly (Strength)"]
+    },
+    {
+        "title": "Bridge",
+        "text": "The command console is active. A distress signal can be sent.",
+        "choices": ["Send a signal (Wisdom)", "Override station controls (Strength)", "Broadcast a message (Charisma)"]
+    },
+    {
+        "title": "Armory",
+        "text": "Weapons are locked behind a security panel.",
+        "choices": ["Try to hack the panel (Wisdom)", "Search for another way in (Strength)"]
+    },
+    {
+        "title": "Airlock",
+        "text": "An emergency spacewalk might be the only escape.",
+        "choices": ["Suit up and exit (Strength)", "Try to reroute oxygen to another exit (Wisdom)"]
+    }
+]
